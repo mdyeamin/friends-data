@@ -1,4 +1,6 @@
-[
+{
+  "status": 200,
+  "friends": [
   {
     "id": 1,
     "name": "Arif Hossain",
@@ -94,5 +96,31 @@
     "bio": "Our families have known each other for decades. She is like a sister to me. We talk almost every week about everything from career goals to random life stuff.",
     "goal": 7,
     "next_due_date": "2025-08-03"
+  },
+  {
+    "id": 9,
+    "name": "Shahriar Noman",
+    "picture": "https://randomuser.me/api/portraits/men/43.jpg",
+    "email": "shahriar.noman@gmail.com",
+    "days_since_contact": 22,
+    "status": "overdue",
+    "tags": ["university", "close friend"],
+    "bio": "We met during a programming contest in second year. He is one of the sharpest minds I know. Now working at a startup in Dhaka building fintech products.",
+    "goal": 14,
+    "next_due_date": "2025-07-05"
+  },
+  {
+    "id": 10,
+    "name": "Lamia Sultana",
+    "picture": "https://randomuser.me/api/portraits/women/55.jpg",
+    "email": "lamia.sultana@gmail.com",
+    "days_since_contact": 8,
+    "status": "almost due",
+    "tags": ["work", "colleague"],
+    "bio": "We worked together on the same product team for two years. She has an amazing eye for design and always pushed the team to think from the user's perspective.",
+    "goal": 7,
+    "next_due_date": "2025-07-22"
   }
 ]
+}
+
