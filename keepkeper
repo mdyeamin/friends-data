@@ -8,7 +8,7 @@
     "email": "arif.hossain@gmail.com",
     "days_since_contact": 18,
     "status": "overdue",
-    "tags": ["college", "close friend"],
+    "tags": ["college"],
     "bio": "Met in first year at BUET. We used to pull all-nighters before exams together. Now he works as a software engineer in Dhaka.",
     "goal": 14,
     "next_due_date": "2025-07-10"
@@ -32,7 +32,7 @@
     "email": "tanvir.ahmed94@yahoo.com",
     "days_since_contact": 30,
     "status": "overdue",
-    "tags": ["childhood", "close friend"],
+    "tags": ["close friend"],
     "bio": "Grew up in the same neighborhood. We played cricket every evening until high school. He moved to Chittagong for work but we try to stay connected.",
     "goal": 21,
     "next_due_date": "2025-06-28"
@@ -44,7 +44,7 @@
     "email": "sadia.islam@protonmail.com",
     "days_since_contact": 10,
     "status": "almost due",
-    "tags": ["university", "study group"],
+    "tags": ["study group"],
     "bio": "We were in the same thesis group in final year. She is now doing her Masters abroad. We talk about research, life, and missing home food.",
     "goal": 10,
     "next_due_date": "2025-07-15"
@@ -68,7 +68,7 @@
     "email": "mehreen.c@gmail.com",
     "days_since_contact": 3,
     "status": "on-track",
-    "tags": ["work", "close friend"],
+    "tags": ["close friend"],
     "bio": "Met at a tech meetup two years ago. We bonded over our shared frustration with bad UI design. Now we collab on side projects and share resources.",
     "goal": 7,
     "next_due_date": "2025-08-05"
@@ -80,7 +80,7 @@
     "email": "imran.kabir@live.com",
     "days_since_contact": 13,
     "status": "almost due",
-    "tags": ["college", "roommate"],
+    "tags": ["roommate"],
     "bio": "My roommate for three years during university. We cooked terrible food together and survived it. He is now married and living in Sylhet.",
     "goal": 14,
     "next_due_date": "2025-07-18"
@@ -104,7 +104,7 @@
     "email": "shahriar.noman@gmail.com",
     "days_since_contact": 22,
     "status": "overdue",
-    "tags": ["university", "close friend"],
+    "tags": ["university"],
     "bio": "We met during a programming contest in second year. He is one of the sharpest minds I know. Now working at a startup in Dhaka building fintech products.",
     "goal": 14,
     "next_due_date": "2025-07-05"
@@ -116,7 +116,7 @@
     "email": "lamia.sultana@gmail.com",
     "days_since_contact": 8,
     "status": "almost due",
-    "tags": ["work", "colleague"],
+    "tags": ["work"],
     "bio": "We worked together on the same product team for two years. She has an amazing eye for design and always pushed the team to think from the user's perspective.",
     "goal": 7,
     "next_due_date": "2025-07-22"
